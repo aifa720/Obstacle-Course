@@ -15,7 +15,7 @@ C:/Users/aifa720/Desktop/Cita 312 Unity Projects/Repos/Obstacle Course
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62507
+64641
 Successfully changed project path to: C:/Users/aifa720/Desktop/Cita 312 Unity Projects/Repos/Obstacle Course
 C:/Users/aifa720/Desktop/Cita 312 Unity Projects/Repos/Obstacle Course
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/aifa720/Desktop/Cita 312 Unity Projects/Repos/Obstacle Course
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 328.80 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 316.90 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
@@ -63,92 +63,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56748
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.035555 seconds.
+Registered in 0.031981 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 310.81 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 292.96 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.505 seconds
+- Completed reload, in  2.486 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2506ms)
-		BeginReloadAssembly (306ms)
+	ReloadAssembly (2488ms)
+		BeginReloadAssembly (296ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (3ms)
-		EndReloadAssembly (1683ms)
-			LoadAssemblies (297ms)
+		EndReloadAssembly (1749ms)
+			LoadAssemblies (288ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (400ms)
+			SetupTypeCache (419ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (114ms)
-			SetupLoadedEditorAssemblies (1001ms)
+			RebuildScriptCaches (109ms)
+			SetupLoadedEditorAssemblies (1035ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (36ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (311ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (293ms)
 				BeforeProcessingInitializeOnLoad (4ms)
-				ProcessInitializeOnLoadAttributes (507ms)
-				ProcessInitializeOnLoadMethodAttributes (142ms)
+				ProcessInitializeOnLoadAttributes (527ms)
+				ProcessInitializeOnLoadMethodAttributes (172ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.013785 seconds.
+Registered in 0.022348 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\aifa720\Desktop\Cita 312 Unity Projects\Repos\Obstacle Course\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\aifa720\Desktop\Cita 312 Unity Projects\Repos\Obstacle Course\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.05 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.434 seconds
+- Completed reload, in  3.733 seconds
 Domain Reload Profiling:
-	ReloadAssembly (3437ms)
-		BeginReloadAssembly (342ms)
+	ReloadAssembly (3736ms)
+		BeginReloadAssembly (360ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (21ms)
+			DisableScriptedObjects (24ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (59ms)
-		EndReloadAssembly (2659ms)
-			LoadAssemblies (256ms)
+			CreateAndSetChildDomain (58ms)
+		EndReloadAssembly (2947ms)
+			LoadAssemblies (227ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (716ms)
+			SetupTypeCache (980ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (118ms)
-			SetupLoadedEditorAssemblies (1433ms)
+			RebuildScriptCaches (190ms)
+			SetupLoadedEditorAssemblies (1357ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (22ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (355ms)
-				ProcessInitializeOnLoadAttributes (925ms)
-				ProcessInitializeOnLoadMethodAttributes (94ms)
-				AfterProcessingInitializeOnLoad (35ms)
-				EditorAssembliesLoaded (0ms)
+				InitializePlatformSupportModulesInManaged (30ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (339ms)
+				ProcessInitializeOnLoadAttributes (863ms)
+				ProcessInitializeOnLoadMethodAttributes (90ms)
+				AfterProcessingInitializeOnLoad (32ms)
+				EditorAssembliesLoaded (1ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (24ms)
+			AwakeInstancesAfterBackupRestoration (26ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.96 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 27 unused Assets / (111.0 KB). Loaded Objects now: 3834.
 Memory consumption went from 116.1 MB to 116.0 MB.
-Total: 12.300200 ms (FindLiveObjects: 0.523000 ms CreateObjectMapping: 0.503500 ms MarkObjects: 10.975200 ms  DeleteObjects: 0.296500 ms)
+Total: 5.370500 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.266000 ms MarkObjects: 4.649000 ms  DeleteObjects: 0.122000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -162,13 +162,37 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 511872.975030 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(6ea315d0fd7389c41b19996891e99ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8193726cff86800c54781cdc6d54904') in 0.031385 seconds 
+  Time since last request: 684973.354062 seconds.
+  path: Assets/Car.prefab
+  artifactKey: Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car.prefab using Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4129eaae864a2d3ad0627dd51c0dbf4') in 0.336250 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000051 seconds.
-  path: Assets/Scenes/SampleScene.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ccaa32d8e5c1de03c07a5412c8c3c') in 0.013543 seconds 
+  Time since last request: 163.489924 seconds.
+  path: Assets/Car.prefab
+  artifactKey: Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car.prefab using Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39af4a2fd5075b0d0d5f723d202f0c61') in 0.052675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.899013 seconds.
+  path: Assets/Car.prefab
+  artifactKey: Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car.prefab using Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '759d72327a9070b8463b0ad708cc8a3d') in 0.039359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.722204 seconds.
+  path: Assets/Car.prefab
+  artifactKey: Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car.prefab using Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f0725c0841e5e8387cf2dcb2e54e90') in 0.043596 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.261950 seconds.
+  path: Assets/Car.prefab
+  artifactKey: Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Car.prefab using Guid(943f9e8df4548bb45b4e6228b6b77988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf59aab5a6bad2a789b23110e98bc86') in 0.051137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 972.916695 seconds.
+  path: Assets/Street Light.prefab
+  artifactKey: Guid(a1805f488605aa2498acac396a3e5296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Street Light.prefab using Guid(a1805f488605aa2498acac396a3e5296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a71c75af42facb000e0319f0328badfd') in 0.044125 seconds 
